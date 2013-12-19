@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.firedragonpzy.com.cn/2013/12/16/Candy Crush 游戏制作及消除算法分析/</loc>
+    <lastmod>2013-12-19T12:20:52.000Z</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.firedragonpzy.com.cn/2013/12/18/Candy Crush 游戏制作注意事项/</loc>
+    <lastmod>2013-12-19T12:20:52.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://blog.firedragonpzy.com.cn/2013/12/13/hexo-guide-3/</loc>
     <lastmod>2013-12-12T12:50:57.000Z</lastmod>
   </url>
@@ -15,10 +23,6 @@
   <url>
     <loc>http://blog.firedragonpzy.com.cn/2013/12/12/hexo-guide-1/</loc>
     <lastmod>2013-12-12T12:47:43.000Z</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.firedragonpzy.com.cn/2013/12/10/Candy Crush 游戏制作及消除算法分析/</loc>
-    <lastmod>2013-12-11T12:42:42.000Z</lastmod>
   </url>
   <url>
     <loc>http://blog.firedragonpzy.com.cn/about/index.html</loc>
